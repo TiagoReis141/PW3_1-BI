@@ -1,3 +1,6 @@
 # PW3_1-BI
 
-Entre no git bash, clona o arquivo em algum lugar que deseje e coloque o comando git pull
+Entre no projeto e clique o botão verde escrito code copie o código
+Depois disso entra o terminal do Git e escreva:
+git clone "link copiado"
+
